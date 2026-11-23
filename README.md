@@ -1,11 +1,11 @@
 ## Hi there 👋
-Drug Discovery and Development student @ CMUJ, Kraków
-
 <div align="center">
   <img src="./assets/ascii-gradient-banner.webp"
        alt="ASCII gradient banner"
        width="100%">
 </div>
+
+Drug Discovery and Development student @ CMUJ, Kraków
   
 <!--
 **fkkarpinski/fkkarpinski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
