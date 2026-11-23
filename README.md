@@ -1,6 +1,14 @@
 ## Hi there 👋
 Drug Discovery and Development student @ CMUJ, Kraków
 
+<div align="center">
+  <img
+    src="./assets/ascii-gradient.webp"
+    alt="Animated ASCII Gradient"
+    width="100%"
+  />
+</div>
+  
 <!--
 **fkkarpinski/fkkarpinski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
