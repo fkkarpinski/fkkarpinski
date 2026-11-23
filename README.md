@@ -5,11 +5,9 @@
 
 # Hi, I'm Franek 👋
 
-### Computational Drug Design | Cheminformatics | Python
-
 I'm interested in computer-aided drug design, cheminformatics, and the application of computational methods in drug discovery.
 
-Currently studying Drug Discovery and Development @ UJCM, Kraków.
+Currently studying Drug Discovery and Development @ CMUJ, Kraków.
   
 <!--
 **fkkarpinski/fkkarpinski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
