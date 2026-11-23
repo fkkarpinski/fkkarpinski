@@ -3,7 +3,7 @@ Drug Discovery and Development student @ CMUJ, Kraków
 
 <div align="center">
   <img
-    src="./assets/ascii-gradient.webp"
+    src="./assets/ascii-gradient.gif"
     alt="Animated ASCII Gradient"
     width="100%"
   />
