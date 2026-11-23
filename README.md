@@ -2,11 +2,9 @@
 Drug Discovery and Development student @ CMUJ, Kraków
 
 <div align="center">
-  <img
-    src="./assets/ascii-gradient.gif"
-    alt="Animated ASCII Gradient"
-    width="100%"
-  />
+  <img src="./assets/ascii-gradient-banner.webp"
+       alt="ASCII gradient banner"
+       width="100%">
 </div>
   
 <!--
