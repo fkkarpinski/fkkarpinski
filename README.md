@@ -1,11 +1,15 @@
-## Hi there 👋
+
 <div align="center">
-  <img src="./assets/ascii-gradient-banner.webp"
-       alt="ASCII gradient banner"
-       width="100%">
+  <img src="./assets/ascii-banner-cropped.webp" width="100%" alt="ASCII Banner">
 </div>
 
-Drug Discovery and Development student @ CMUJ, Kraków
+# Hi, I'm Franek 👋
+
+### Computational Drug Design | Cheminformatics | Python
+
+I'm interested in computer-aided drug design, cheminformatics, and the application of computational methods in drug discovery.
+
+Currently studying Drug Discovery and Development @ UJCM, Kraków.
   
 <!--
 **fkkarpinski/fkkarpinski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
